@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Craftsman's Writs
+## Notes: Rank Forever writs by reputation cost and distance and pin their turn-ins.
+## Version: 2.0.1
+## RequiredDeps: WaylaidCost
+## OptionalDeps: Auctionator, CKProfessionPace
+## SavedVariables: CKWritPlannerDB
+
+Writs.lua
+Planner.lua
+Main.lua
